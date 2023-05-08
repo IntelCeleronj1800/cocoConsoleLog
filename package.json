@@ -1,0 +1,27 @@
+{
+  "name": "coconsolelog",
+  "version": "1.0.0",
+  "description": "coco",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/IntelCeleronj1800/cocoConsoleLog.git"
+  },
+  "keywords": [
+    "coco",
+    "console"
+  ],
+  "author": "IntelCeleronj1800 <inletlceleronj1800@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IntelCeleronj1800/cocoConsoleLog/issues"
+  },
+  "homepage": "https://github.com/IntelCeleronj1800/cocoConsoleLog#readme",
+  "bin": {
+    "coconsolelog": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
